@@ -1,1 +1,2 @@
-# Jira_report
+# Jira project management site
+#Reporting bug to developer team or member
